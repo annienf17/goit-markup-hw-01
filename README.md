@@ -1,6 +1,7 @@
-Guide how to use our project
+#Zadanie domowe nr 1
 
-1. clone my repo
-2. open index.html in browser
-3. add style.css
-4. new remote job
+link do gitPage:
+
+https://annienf17.github.io/goit-markup-hw-01
+
+
